@@ -242,9 +242,9 @@ There are several free options to deploy this project online so anyone can uploa
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-3rd Year B.E. / B.Tech — Computer Science / AI & ML  
-[Your College Name]
+**SARVESH P**  
+3rd Year B.E. — Computer Science & Engineering  
+Dr. N.G.P Institute of Technology, Coimbatore
 
 ---
 
@@ -255,5 +255,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  Made with ❤️ as a 3rd Year Project
+  Made with ❤️ as a Mini Project during my 3rd Year at Dr. N.G.P Institute of Technology, Coimbatore
 </p>
