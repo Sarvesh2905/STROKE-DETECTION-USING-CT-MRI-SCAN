@@ -91,8 +91,9 @@ The system works by extracting features through two different networks and combi
 ## 👨‍💻 Authors
 
 **SARVESH P**  
-**[Teammate 1 Name]** *(Note: Please add your teammate's name here)*  
-**[Teammate 2 Name]** *(Note: Please add your teammate's name here)*  
+**SAMYUKTA A** 
+**VARSHA N** 
+**LOGESHWARI R**
 
 3rd Year B.Tech — Information Technology  
 Dr. N.G.P Institute of Technology, Coimbatore
