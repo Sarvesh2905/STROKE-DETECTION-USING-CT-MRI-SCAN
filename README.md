@@ -243,7 +243,7 @@ There are several free options to deploy this project online so anyone can uploa
 ## 👨‍💻 Author
 
 **SARVESH P**  
-3rd Year B.E. — Computer Science & Engineering  
+3rd Year B.Tech — Information Technology
 Dr. N.G.P Institute of Technology, Coimbatore
 
 ---
@@ -255,5 +255,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  Made with ❤️ as a Mini Project during my 3rd Year at Dr. N.G.P Institute of Technology, Coimbatore
+  Made with  as a Mini Project during my 3rd Year at Dr. N.G.P Institute of Technology, Coimbatore
 </p>
